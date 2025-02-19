@@ -40,7 +40,7 @@
   
  ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
  ❤️ &emsp; Love to writing code and learning new features<br/><br/>
- 📧 &emsp; Reach me anytime: adtyfadni@gmail.com<br/><br/>
+ 📧 &emsp; Reach me anytime: aditya.fadni@gmail.com<br/><br/>
  💬 &emsp; Ask me about anything [here](https://github.com/CL4Y0101)
 
 </p>

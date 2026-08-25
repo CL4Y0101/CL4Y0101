@@ -69,27 +69,35 @@ and turning ideas into things that actually work.
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Statistics
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=CL4Y0101&show_icons=true&theme=github_dark&hide_border=true" alt="Aditya's GitHub Stats"/>
+<img
+  src="https://git-hub-stats-card-generator.vercel.app/api/svg?username=CL4Y0101"
+  width="49%"
+  alt="Aditya's GitHub Stats"
+/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CL4Y0101&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Aditya's Top Languages"/>
+<img
+  src="https://git-hub-stats-card-generator.vercel.app/api/svg?username=CL4Y0101&type=languages"
+  width="49%"
+  alt="Aditya's Top Languages"
+/>
 
-<br/><br/>
+<br/>
 
-<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=CL4Y0101&theme=github-dark-blue&hide_border=true" alt="Aditya's GitHub Streak"/>
+<img
+  src="https://git-hub-stats-card-generator.vercel.app/api/svg?username=CL4Y0101&type=contributions"
+  width="49%"
+  alt="Aditya's Contributions"
+/>
 
-</div>
-
----
-
-## 📈 Contribution Activity
-
-<div align="center">
-
-<img width="90%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CL4Y0101&theme=github_dark" alt="GitHub Contribution Activity"/>
+<img
+  src="https://git-hub-stats-card-generator.vercel.app/api/svg?username=CL4Y0101&type=top-repos"
+  width="49%"
+  alt="Aditya's Top Repositories"
+/>
 
 </div>
 
@@ -107,4 +115,5 @@ and turning ideas into things that actually work.
 
 <sub>Building, learning, and improving — one commit at a time.</sub>
 
+</div>
 </div>

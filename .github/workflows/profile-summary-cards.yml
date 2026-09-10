@@ -1,0 +1,49 @@
+name: GitHub Profile Summary Cards
+
+on:
+  schedule:
+    # Refresh setiap jam
+    - cron: "17 * * * *"
+
+  # Bisa dijalankan manual dari tab Actions
+  workflow_dispatch:
+
+  # Refresh juga kalau profile repo diubah
+  push:
+    branches:
+      - main
+    paths-ignore:
+      - "profile-summary-card-output/**"
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Generate Profile Summary Cards
+        uses: vn7n24fzkq/github-profile-summary-cards@release
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+        with:
+          USERNAME: CL4Y0101
+          BRANCH_NAME: main
+
+          # Indonesia WIB
+          UTC_OFFSET: 7
+
+          EXCLUDE: ""
+          AUTO_PUSH: true
+
+          # Kosong = generate semua theme,
+          # termasuk default + github_dark
+          THEME: ""
+
+          # Sengaja tidak pakai animation agar stabil
+          ANIMATION: ""

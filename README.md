@@ -73,31 +73,89 @@ and turning ideas into things that actually work.
 
 <div align="center">
 
-<img
-  src="https://git-hub-stats-card-generator.vercel.app/api/svg?username=CL4Y0101"
-  width="49%"
-  alt="Aditya's GitHub Stats"
-/>
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/CL4Y0101/CL4Y0101/main/profile-summary-card-output/github_dark/0-profile-details.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/CL4Y0101/CL4Y0101/main/profile-summary-card-output/default/0-profile-details.svg"
+  />
+  <img
+    src="https://raw.githubusercontent.com/CL4Y0101/CL4Y0101/main/profile-summary-card-output/default/0-profile-details.svg"
+    width="100%"
+    alt="Aditya's GitHub Profile Details"
+  />
+</picture>
 
-<img
-  src="https://git-hub-stats-card-generator.vercel.app/api/svg?username=CL4Y0101&type=languages"
-  width="49%"
-  alt="Aditya's Top Languages"
-/>
+<br/><br/>
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/CL4Y0101/CL4Y0101/main/profile-summary-card-output/github_dark/1-repos-per-language.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/CL4Y0101/CL4Y0101/main/profile-summary-card-output/default/1-repos-per-language.svg"
+  />
+  <img
+    src="https://raw.githubusercontent.com/CL4Y0101/CL4Y0101/main/profile-summary-card-output/default/1-repos-per-language.svg"
+    width="49%"
+    alt="Repositories Per Language"
+  />
+</picture>
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/CL4Y0101/CL4Y0101/main/profile-summary-card-output/github_dark/2-most-commit-language.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/CL4Y0101/CL4Y0101/main/profile-summary-card-output/default/2-most-commit-language.svg"
+  />
+  <img
+    src="https://raw.githubusercontent.com/CL4Y0101/CL4Y0101/main/profile-summary-card-output/default/2-most-commit-language.svg"
+    width="49%"
+    alt="Most Commit Language"
+  />
+</picture>
 
 <br/>
 
-<img
-  src="https://git-hub-stats-card-generator.vercel.app/api/svg?username=CL4Y0101&type=contributions"
-  width="49%"
-  alt="Aditya's Contributions"
-/>
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/CL4Y0101/CL4Y0101/main/profile-summary-card-output/github_dark/3-stats.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/CL4Y0101/CL4Y0101/main/profile-summary-card-output/default/3-stats.svg"
+  />
+  <img
+    src="https://raw.githubusercontent.com/CL4Y0101/CL4Y0101/main/profile-summary-card-output/default/3-stats.svg"
+    width="49%"
+    alt="GitHub Stats"
+  />
+</picture>
 
-<img
-  src="https://git-hub-stats-card-generator.vercel.app/api/svg?username=CL4Y0101&type=top-repos"
-  width="49%"
-  alt="Aditya's Top Repositories"
-/>
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/CL4Y0101/CL4Y0101/main/profile-summary-card-output/github_dark/4-productive-time.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/CL4Y0101/CL4Y0101/main/profile-summary-card-output/default/4-productive-time.svg"
+  />
+  <img
+    src="https://raw.githubusercontent.com/CL4Y0101/CL4Y0101/main/profile-summary-card-output/default/4-productive-time.svg"
+    width="49%"
+    alt="Productive Time"
+  />
+</picture>
 
 </div>
 

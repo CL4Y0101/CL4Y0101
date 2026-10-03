@@ -2,9 +2,9 @@
 
 # Hi, I'm Aditya Fadni 👋
 
-### Information Technology Student · Web Developer · Indonesia 🇮🇩
+### Information Technology Student · Web Developer · Backend Developer · Indonesia 🇮🇩
 
-I enjoy building web applications, exploring new technologies,  
+I enjoy building real-world applications, exploring new technologies,  
 and turning ideas into things that actually work.
 
 <br/>
@@ -18,6 +18,9 @@ and turning ideas into things that actually work.
 <a href="mailto:aditya.fadni@gmail.com">
   <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
+<a href="https://adityafadni.is-a.dev">
+  <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
+</a>
 
 </div>
 
@@ -27,10 +30,12 @@ and turning ideas into things that actually work.
 
 <img align="right" width="300" src="./assets/programmer.gif" alt="Coding animation"/>
 
-- 🎓 Information Technology student
-- 💻 Interested in **Web Development & Backend Development**
-- 🌱 Currently exploring modern web technologies
-- 🛠️ Enjoy building real-world projects and experimenting with new tools
+- 🎓 Information Technology student at **Politeknik Negeri Jember**
+- 💻 Interested in **Web Development, Backend Development & Software Engineering**
+- 🌱 Currently exploring **Next.js, Flutter, cloud infrastructure, and AI**
+- 🛠️ Enjoy building real-world applications and experimenting with new technologies
+- ☁️ Experienced with **Firebase, Oracle Cloud, Cloudflare, and GitHub**
+- 🤖 Interested in **IoT, AI, Computer Vision, and automation**
 - 🤝 Open to collaboration and interesting projects
 - 📫 Reach me at **aditya.fadni@gmail.com**
 - 🌐 Portfolio: **[adityafadni.is-a.dev](https://adityafadni.is-a.dev/)**
@@ -45,25 +50,25 @@ and turning ideas into things that actually work.
 
 ### Languages
 
-<img src="https://skillicons.dev/icons?i=js,ts,php,java,cpp,html,css&theme=dark" alt="Languages"/>
+<img src="https://skillicons.dev/icons?i=java,cpp,python,js,ts,php,html,css&theme=dark" alt="Languages"/>
 
-<br/>
+<br/><br/>
 
 ### Frameworks & Technologies
 
-<img src="https://skillicons.dev/icons?i=nextjs,nodejs,laravel,tailwind,bootstrap&theme=dark" alt="Frameworks"/>
+<img src="https://skillicons.dev/icons?i=nextjs,nodejs,flutter,laravel,tailwind,bootstrap&theme=dark" alt="Frameworks and Technologies"/>
 
-<br/>
+<br/><br/>
 
 ### Database & Cloud
 
-<img src="https://skillicons.dev/icons?i=mysql,postgres,supabase,firebase&theme=dark" alt="Database and Cloud"/>
+<img src="https://skillicons.dev/icons?i=mysql,postgres,supabase,firebase,oracle&theme=dark" alt="Database and Cloud"/>
 
-<br/>
+<br/><br/>
 
-### Tools
+### Tools & DevOps
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,postman&theme=dark" alt="Development Tools"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,postman,cloudflare&theme=dark" alt="Tools and DevOps"/>
 
 </div>
 
@@ -123,7 +128,7 @@ and turning ideas into things that actually work.
   />
 </picture>
 
-<br/>
+<br/><br/>
 
 <picture>
   <source
@@ -161,6 +166,28 @@ and turning ideas into things that actually work.
 
 ---
 
+## 🔥 GitHub Activity & Streak
+
+<div align="center">
+
+<img
+  src="https://github-readme-streak-stats.herokuapp.com/?user=CL4Y0101&theme=tokyonight&hide_border=true"
+  alt="GitHub Streak"
+  width="70%"
+/>
+
+<br/><br/>
+
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=CL4Y0101&layout=compact&theme=tokyonight&hide_border=true"
+  alt="Top Languages"
+  width="55%"
+/>
+
+</div>
+
+---
+
 ## 🚀 Explore My Work
 
 <div align="center">
@@ -171,7 +198,12 @@ and turning ideas into things that actually work.
 
 <br/><br/>
 
-<sub>Building, learning, and improving — one commit at a time.</sub>
+<a href="https://adityafadni.is-a.dev">
+  <img src="https://img.shields.io/badge/Visit_My_Portfolio-111827?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visit Portfolio"/>
+</a>
 
-</div>
+<br/><br/>
+
+<sub>Building, learning, and improving — one project at a time.</sub>
+
 </div>
